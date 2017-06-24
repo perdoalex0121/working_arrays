@@ -1,6 +1,11 @@
 <?php 
 	 	require "../vendor/autoload.php";
 
+	 	/*
+	 	*	Los Ejemplos de arrays multidimensionales dejados aqui son solo para pruebas se 
+	 	*	recomienda 	trabajar con el helper de Laravel dd muy buena libreria de debbugin 
+	 	*/
+
 	 	$usuarios = [
 	 		"nombre" => 'Edgar',
 	 		'Temas' => [
@@ -27,4 +32,4 @@
 	 		['nombre' => 'Duilio', 'score' => 50],
 	 	];*/
 
- 	dd(array_have($usuarios, ['nombre','pais.Nombre']));
+ 	//dd(array_have($usuarios, ['nombre','pais.Nombre']));
