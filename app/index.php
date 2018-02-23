@@ -32,4 +32,4 @@
 	 		['nombre' => 'Duilio', 'score' => 50],
 	 	];*/
 
- 	//dd(array_have($usuarios, ['nombre','pais.Nombre']));
+ 	//dd(array_get($usuarios, ['url','pais.Bandera.url']));

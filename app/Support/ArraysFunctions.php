@@ -3,7 +3,7 @@
 use ArrayAccess;
 
 	/**
-	* 
+	* Use to define the functions to use with the arrays 
 	*/
 	class ArraysFunctions
 	{
